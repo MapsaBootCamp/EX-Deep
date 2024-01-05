@@ -1,10 +1,10 @@
 # EX-Deep
-Branching Policies:
+## Branching Policies:
 git checkout  {Week name startwith capital "W"}
 
 git checkout -b {Week name startwith capital "W"}-{your name}
 
-Practices:
+## Practices:
 
 Week1 : [Go to Week1](https://github.com/MapsaBootCamp/EX-Deep/tree/W1)
 
