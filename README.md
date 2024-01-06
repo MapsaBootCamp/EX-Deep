@@ -4,9 +4,10 @@ git checkout  {Week name startwith capital "W"}
 
 git checkout -b {Week name startwith capital "W"}-{your name}
 
+## Research:
+1. [PyTorch VS Tensorflow VS Jax](https://github.com/Teghfo/deeplearning-bootcamp-pytorch/discussions/5)
+
+## Reading:
+1. Hands-on: Chapter 10 and 11
+
 ## Practices:
-
-Week1 : [Go to Week1](https://github.com/MapsaBootCamp/EX-Deep/tree/W1)
-
-
-Week2 : [Go to Week2](https://github.com/MapsaBootCamp/EX-Deep/tree/W2)
