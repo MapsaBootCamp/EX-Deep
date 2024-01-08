@@ -11,3 +11,4 @@ git checkout -b {Week name startwith capital "W"}-{your name}
 1. Hands-on: Chapter 10(300 - 317 p.) and 11
 
 ## Practices:
+  File: [Files](https://github.com/Teghfo/deeplearning-bootcamp-pytorch/tree/master/WeeklyEx%2FW2)
