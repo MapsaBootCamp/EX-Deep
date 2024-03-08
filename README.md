@@ -16,3 +16,5 @@ Week4 : [Go to Week4](https://github.com/MapsaBootCamp/EX-Deep/tree/W4)
 
 
 Week6 : [Go to Week6](https://github.com/MapsaBootCamp/EX-Deep/tree/W6)
+
+Week9 : [Go to Week9](https://github.com/MapsaBootCamp/EX-Deep/tree/W9)
