@@ -14,3 +14,4 @@ git checkout -b {Week name startwith capital "W"}-{your name}
 ۴- پیاده سازی attention mechanism 
 
 
+۵− مطالعه یکی از روش های LoRA, Quantization, Pruning
