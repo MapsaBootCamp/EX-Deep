@@ -6,8 +6,11 @@ git checkout -b {Week name startwith capital "W"}-{your name}
 
 ## Practices:
 ۱− مطالعه کد Beam search
+
 ۲- مطالعه مقاله LoRA
+
 ۳- کدی که توش از lstm اسفاده کردیم رو بای دایرکشنال بکنیم
+
 ۴- پیاده سازی attention mechanism 
 
 
